@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="pink1">#FFC0CB</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--    thêm thuộc tính color co trang web-->
+    <color name="red">#F30B0B</color>
+    <color name="pink">#FF3393</color>
+    <color name="green">#8EE767</color>
+    <color name="yelight">#FFB433</color>
+    <color name="navi">#E1F5A9</color>
+    <color name="ttnd"> #81DAF5</color>
+    <color name="nau">#dfbf9f</color>
+    <color name="m">#49BEFF</color>
+    <color name="a">#49BEFF</color>
+    <color name="b">#7cd3a9</color>
+    <color name="c">#0D5D98</color>
+    <color name="d">#49BEFF</color>
+    <color name="e">#6699cc</color>
+    <color name="f">#cc9966</color>
+    <color name="g">#67EFC8</color>
+    <color name="h">#49BEFF</color>
+
+</resources>
